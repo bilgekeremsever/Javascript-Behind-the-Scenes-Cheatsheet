@@ -128,7 +128,7 @@ _friendly suggestion; see Event Delagation for a useful benefit_
 
 ## Prototypes and ES6 Class
 
-For these subjects, there are explanations on [Programming Paradigms Cheatsheet - JavaScript](https://google.com) along with the object oriented programming in general.
+For these subjects, there are explanations on [Programming Paradigms Cheatsheet - JavaScript](https://github.com/bilgekeremsever/Programming-Paradigms-Cheatsheet#object-oriented-programming) along with the object oriented programming in general.
 
 ## Event Loop and Asynchronous JavaScript
 
